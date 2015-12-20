@@ -114,6 +114,7 @@
 
 (require 'init-dash)
 (require 'init-ledger)
+(require 'init-evil)
 ;; Extra packages which don't require any configuration
 
 (require-package 'gnuplot)
